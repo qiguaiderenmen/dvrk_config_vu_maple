@@ -1,0 +1,10 @@
+{
+    // see https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki/Configuration-File-Formats
+    "kinematic": "kinematic/ecm-si.json"
+    , "generation": "Si"
+     , "endoscope": "Classic_SD_STRAIGHT"
+    // , "endoscope": "Classic_SD_UP"
+    // , "endoscope": "Classic_SD_DOWN"
+    //, "endoscope": "Si_HD_STRAIGHT" // or UP or DOWN
+     , "mounting-pitch": 0 // -70.0 for Si ECM on SUJ
+}
